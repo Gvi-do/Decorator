@@ -1,0 +1,6 @@
+cook_book_files/
+venv/
+External Libraries/
+Scratches and Consoles
+.idea/
+*.pyc
